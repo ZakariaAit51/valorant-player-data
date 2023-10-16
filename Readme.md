@@ -1,7 +1,3 @@
-Sure, I can help you create a README file content for your Python project. A good README typically includes an introduction to the project, how to run it, and any additional information that could be useful for someone using or contributing to the project. Here's a basic README content based on your Python project:
-
----
-
 # Valorant Player Data Retrieval
 
 This Python script allows you to retrieve Valorant player data using the [HenrikDev API](https://api.henrikdev.xyz/valorant).
