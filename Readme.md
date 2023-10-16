@@ -41,7 +41,3 @@ name: example, level: 10, rank: Diamond 3
 ## Disclaimer
 
 This script uses the HenrikDev API to fetch player data and MMR information. Please ensure you have appropriate permissions and follow the API usage policy.
-
----
-
-Replace `"yourusername"` with your GitHub username and `"valorant-player-data"` with the appropriate repository name.
